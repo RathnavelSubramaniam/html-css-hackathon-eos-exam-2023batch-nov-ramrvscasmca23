@@ -1,0 +1,12 @@
+article{
+    width: 754px;
+    padding: 25px;
+    column-count: 3;
+    background-color:white;
+    column-rule: 2px solid black;
+    column-gap: 3;
+}
+   h1 {
+    column-span: all;
+    
+   }
